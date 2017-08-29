@@ -1,2 +1,2 @@
 # inverse_kinematics
-Inverse Kinematics for Roboy with ROS MoveIt!
+Inverse Kinematics calculation for Roboy with ROS MoveIt!
